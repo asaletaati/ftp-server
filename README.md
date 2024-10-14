@@ -17,3 +17,15 @@ You can use a FTP Client app like FileZilla or WinSCP to test your server.
 You must send a PDF as your program's documentation containing a link to
 your GitHub repository and screenshots from a FTP Client application showing
 the testing process and results.
+# solution
+با از ماشین مجازی و سپس نصب لینوکس در ماشین مجازی، ترمینال را باز کردم.
+دستورات زیر را به ترتیب برای نصب پکیج های خواسته شده وارد کردم
+sudo apt update
+sudo apt install g++ cmake libboost-all-dev
+بعد یک دایرکتوری ساختم 
+mkdir ftp_server
+cd ftp_server
+بعد یک ساب دایرکتوری ساختم
+mkdir src include build
+ادامه دارد...
+
