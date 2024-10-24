@@ -1,0 +1,3 @@
+/home/ubuntu/ftp_server/build/CMakeFiles/ftp_server.dir
+/home/ubuntu/ftp_server/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/ftp_server/build/CMakeFiles/rebuild_cache.dir
